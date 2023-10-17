@@ -1,0 +1,197 @@
+*{
+    color: yellow;
+}
+body {
+    display: flex;
+    justify-content:start;
+    align-items: start;
+    height: 100vh;
+    width: 100vw;
+}
+.card1{
+
+    height: 450px;
+    border:1px yellow solid;
+    max-width: 350px;
+    width: 100%;
+    background-image: url("bellingham.png");
+    border-radius: 10px;
+display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card1:hover{
+    border: 5px solid yellow;
+}
+.card2{
+
+    height: 450px;
+    border:1px yellow solid;
+    max-width: 350px;
+    width: 100%;
+    background-image: url("tonikroos.png");
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card2:hover{
+    border: 5px solid yellow;
+}
+.card3{
+
+    height: 450px;
+    border:1px yellow solid;
+    max-width: 350px;
+    width: 100%;
+    background-image: url("vini.png");
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card3:hover{
+    border: 5px solid yellow;
+}
+
+.card4{
+
+    height: 450px;
+    border:1px yellow solid;
+    max-width: 350px;
+    width: 100%;
+    background-image: url("rudigerblackbackground.png");
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card4:hover{
+    border: 5px solid yellow;
+}
+
+
+.card5{
+
+    height: 450px;
+    border:1px yellow solid;
+    max-width: 350px;
+    width: 100%;
+    background-image: url("valverde.png");
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card5:hover{
+    border: 5px solid yellow;
+}
+
+.card6{
+
+    height: 450px;
+    border:1px yellow solid;
+    max-width: 350px;
+    width: 100%;
+    background-image: url("camavinga.png");
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card6:hover{
+    border: 5px solid yellow;
+}
+
+
+.card7{
+
+    height: 450px;
+    border:1px yellow solid;
+    max-width: 350px;
+    width: 100%;
+    background-image: url("Rodrygo.png");
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card7:hover{
+    border: 5px solid yellow;
+}
+
+
+.card8{
+
+    height: 450px;
+    border:1px yellow solid;
+    max-width: 350px;
+    width: 100%;
+    background-image: url("Alaba.png");
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card8:hover{
+    border: 5px solid yellow;
+}
+
+
+.card9{
+
+    height: 450px;
+    border:1px yellow solid;
+    max-width: 350px;
+    width: 100%;
+    background-image: url("LUCAS_380x501Thumb-removebg-preview.png");
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card9:hover{
+    border: 5px solid yellow;
+}
+
+
+.card10{
+
+    height: 450px;
+    border:1px yellow solid;
+    max-width: 350px;
+    width: 100%;
+    background-image: url("JOSELU_380x501Thumb-removebg-preview.png");
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card10:hover{
+    border: 5px solid yellow;
+}
+
+
+.description{
+    height: 250px;
+ background: rgba(64, 64, 64, 0.7);
+}
+.name{
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+.stats{
+    display: flex;
+    width: 100%;
+ justify-content: center;
+}
+.figure{
+    display: flex;
+    width: 100%;
+    gap: 15px;
+    justify-content: center;
+    flex-direction: column;
+    font-size: large;
+    align-items: center;
+    font-weight: 650;
+}
